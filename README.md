@@ -38,7 +38,7 @@ I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong>
       <ul>
         <li>📋 Wrote <strong>functional specs</strong> and created <strong>prototypes in Figma</strong> to validate UX before development</li>
         <li>🗄️ <strong>Designed DB schema</strong> and implemented <strong>order workflow constraints</strong> to eliminate invalid orders and reduce errors</li>
-        <li>🎯 Automated workflows → <strong>60% reduction</strong> of manual restaurant tasks</li>
+        <li>🎯 Workflow automation → <strong>reduced manual overhead</strong> for restaurant operations</li>
         <li>⚡ Built <strong>responsive SPA-like UX</strong> with Hotwire Turbo & Stimulus, improving page load times</li>
         <li>🚀 Deployed to <strong>Heroku</strong> with full DNS and hosting configuration management</li>
         <li>📚 Documented <strong>DB schema, functional specs, user stories & user flows</strong> in private GitHub repo</li>
