@@ -23,7 +23,7 @@ I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong>
 | 💡 Design & Analysis | 🔌 Integrate Systems | 🏗️ Build Solutions |
 |---------|-----------|----------|
 | <strong>Functional specs & prototypes</strong> (Figma), <strong>technical analysis</strong>, <strong>database schema design</strong> | <strong>REST APIs & WSO2 integration</strong>, <strong>ERP system integration</strong>, <strong>microservices architecture</strong> | <strong>End-to-end features</strong> with Rails, Scala, Java, Node.js, <strong>SPA interfaces</strong> with Angular/Hotwire |
-| <strong>Workflow automation</strong> reducing manual tasks, <strong>order constraints</strong> eliminating errors | <strong>CI/CD pipelines</strong>, <strong>containerized deployments</strong> (Docker, Kubernetes, Argo CD) | <strong>Code reviews</strong>, <strong>automated testing</strong>, <strong>production deployments</strong> to Heroku/Azure |
+| <strong>Workflow automation</strong> reducing manual tasks, <strong>model constraints</strong> eliminating errors | <strong>CI/CD pipelines</strong>, <strong>containerized deployments</strong> (Docker, Kubernetes, Argo CD) | <strong>Code reviews</strong>, <strong>automated testing</strong>, <strong>production deployments</strong> to Heroku/Azure |
 
 ---
 
