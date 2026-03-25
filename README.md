@@ -33,7 +33,7 @@ I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong>
   <tr>
     <td width="70%">
       <h3 style="margin-top:0;">Restaurant E-Commerce Platform — Full Stack Redesign</h3>
-      <p>Led a <strong>complete product redesign</strong> of a Spanish restaurant's e-commerce platform, replacing legacy WordPress with a modern Rails 7.2 application. Worked iteratively with the owner to align product requirements and deliver the MVP.</p>
+      <p>Led a <strong>complete product redesign</strong> of a Spanish restaurant's online ordering system, replacing legacy WordPress with a modern Rails 7.2 application. Worked iteratively with the owner to align product requirements and deliver the MVP.</p>
       <p><strong>My Approach:</strong></p>
       <ul>
         <li>📋 Wrote <strong>functional specs</strong> and created <strong>prototypes in Figma</strong> to validate UX before development</li>
