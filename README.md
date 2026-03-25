@@ -107,6 +107,19 @@ I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong>
 
 ---
 
+<h2 style="color:#0f766e;">📊 GitHub Activity</h2>
+
+<p align="center" style="font-size: 0.95em;">
+  <strong>903 contributions in the last year</strong><br>
+  <em>Primarily focused on <strong>arte-pizza</strong> (private repository)</em>
+</p>
+
+<p align="center" style="margin-top: 15px;">
+  <img src="./assets/github-activity.png" alt="GitHub Contribution Activity" width="100%" />
+</p>
+
+---
+
 <h2 style="color:#0f766e;">📬 Get in Touch</h2>
 
 <div align="center">
