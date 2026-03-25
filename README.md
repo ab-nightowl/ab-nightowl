@@ -14,16 +14,16 @@
 
 ### 🎯 Who I Am
 
-I'm a **Senior Full Stack Engineer** with **8+ years** of hands-on experience in diverse technical and cultural environments across multiple countries. I bring a **proactive, analytical approach** combined with **design thinking** to build robust systems that solve real problems. Autonomous, serious, and deeply responsible in my work, I thrive in **challenging projects with modern tech stacks** where I can drive both technical excellence and **emerging leadership**.
+I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong> of hands-on experience in diverse technical and cultural environments across multiple countries. I bring a <strong>proactive, analytical approach</strong> combined with <strong>design thinking</strong> to build robust systems that solve real problems. Autonomous, serious, and deeply responsible in my work, I thrive in <strong>challenging projects with modern tech stacks</strong> where I can drive both technical excellence and <strong>emerging leadership</strong>.
 
-**Languages:** 🇫🇷 French • 🇬🇧 English • 🇪🇸 Spanish • 🇩🇪 German
+<strong>Languages:</strong> 🇫🇷 French • 🇬🇧 English • 🇪🇸 Spanish • 🇩🇪 German
 
 ### 🌟 What I Do Best
 
-| 🏗️ Build | 🔌 Integrate | 📱 Deliver |
+| 💡 Design & Analysis | 🔌 Integrate Systems | 🏗️ Build Solutions |
 |---------|-----------|----------|
-| **Robust backend systems** with Rails, Scala, Java | **Seamless API integrations** with REST, OpenAPI, WSO2 | **Modern SPAs** with Angular, Hotwire, Stimulus |
-| **Database optimization** across SQL, NoSQL, Cloud | **Clean architecture** with CQRS, microservices | **Production-ready** code with tests & docs |
+| <strong>Functional specs & prototypes</strong> (Figma), <strong>technical analysis</strong>, <strong>database schema design</strong> | <strong>REST APIs & WSO2 integration</strong>, <strong>ERP system integration</strong>, <strong>microservices architecture</strong> | <strong>End-to-end features</strong> with Rails, Scala, Java, Node.js, <strong>SPA interfaces</strong> with Angular/Hotwire |
+| <strong>Workflow automation</strong> reducing manual tasks, <strong>order constraints</strong> eliminating errors | <strong>CI/CD pipelines</strong>, <strong>containerized deployments</strong> (Docker, Kubernetes, Argo CD) | <strong>Code reviews</strong>, <strong>automated testing</strong>, <strong>production deployments</strong> to Heroku/Azure |
 
 ---
 
@@ -32,17 +32,19 @@ I'm a **Senior Full Stack Engineer** with **8+ years** of hands-on experience in
 <table>
   <tr>
     <td width="70%">
-      <h3 style="margin-top:0;">Restaurant E-Commerce Platform</h3>
-      <p>Led a <strong>complete redesign</strong> of a Spanish restaurant's online ordering system, replacing legacy WordPress with a modern, scalable Rails application.</p>
-      <p><strong>Key Achievements:</strong></p>
+      <h3 style="margin-top:0;">Restaurant E-Commerce Platform — Full Stack Redesign</h3>
+      <p>Led a <strong>complete product redesign</strong> of a Spanish restaurant's e-commerce platform, replacing legacy WordPress with a modern Rails 7.2 application. Worked iteratively with the owner to align product requirements and deliver the MVP.</p>
+      <p><strong>My Approach:</strong></p>
       <ul>
-        <li>🎯 Automated workflows → <strong>60% reduction</strong> in manual tasks</li>
-        <li>✅ Eliminated order errors through DB schema constraints</li>
-        <li>⚡ Built responsive SPA-like UX improving page load times</li>
-        <li>🚀 Deployed to production on Heroku with full DNS management</li>
+        <li>📋 Wrote <strong>functional specs</strong> and created <strong>prototypes in Figma</strong> to validate UX before development</li>
+        <li>🗄️ <strong>Designed DB schema</strong> and implemented <strong>order workflow constraints</strong> to eliminate invalid orders and reduce errors</li>
+        <li>🎯 Automated workflows → <strong>60% reduction</strong> of manual restaurant tasks</li>
+        <li>⚡ Built <strong>responsive SPA-like UX</strong> with Hotwire Turbo & Stimulus, improving page load times</li>
+        <li>🚀 Deployed to <strong>Heroku</strong> with full DNS and hosting configuration management</li>
+        <li>📚 Documented <strong>DB schema, functional specs, user stories & user flows</strong> in private GitHub repo</li>
       </ul>
       <p><strong>Tech Stack:</strong><br/>
-        Ruby on Rails 7.2 • Hotwire Turbo • Stimulus • PostgreSQL • Devise • Mobility • Money-rails • Redsys • WickedPDF • PrintNode
+        Ruby on Rails 7.2 • Hotwire Turbo • Stimulus • PostgreSQL • Devise • Mobility (i18n) • Money-rails • Redsys (payment) • WickedPDF • PrintNode • Figma
       </p>
       <p>
         <a href="https://www.artepizzadanicola.es">🌐 Live Site</a> | <a href="https://github.com/ab-nightowl/arte-pizza">📚 GitHub (Private)</a>
@@ -54,14 +56,6 @@ I'm a **Senior Full Stack Engineer** with **8+ years** of hands-on experience in
 ---
 
 <h2 style="color:#0f766e;">🛠️ Tech Stack Breakdown</h2>
-
-<style>
-  @media (max-width: 768px) {
-    .tech-grid {
-      grid-template-columns: 1fr !important;
-    }
-  }
-</style>
 
 <div class="tech-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
 
@@ -117,11 +111,11 @@ I'm a **Senior Full Stack Engineer** with **8+ years** of hands-on experience in
 
 <h2 style="color:#0f766e;">🎓 Next Chapter: AI Engineering</h2>
 
-> **Starting March 2026:** 4Geeks Academy AI Engineering Bootcamp (24-week part-time, 100% remote)
+> <strong>Starting March 2026:</strong> 4Geeks Academy AI Engineering Bootcamp (24-week part-time, 100% remote)
 >
-> I'm passionate about **learning new languages and technologies**. My next frontier is **becoming an AI engineer**—mastering AI-first development, prompt engineering, RAG systems, multi-agent architectures, and building intelligent systems that adapt, evolve, and deliver real-world impact.
+> I'm passionate about <strong>learning new languages and technologies</strong>. My next frontier is <strong>becoming an AI engineer</strong>—mastering AI-first development, prompt engineering, RAG systems, multi-agent architectures, and building intelligent systems that adapt, evolve, and deliver real-world impact.
 >
-> This reflects my core philosophy: **always curious, always growing, always progressing.**
+> This reflects my core philosophy: <strong>always curious, always growing, always progressing.</strong>
 
 ---
 
@@ -141,11 +135,11 @@ I'm a **Senior Full Stack Engineer** with **8+ years** of hands-on experience in
 
 ### 🌍 Let's Work Together
 
-I'm seeking a **challenging project with a modern tech stack** where I can:
-- Express my **proactive, analytical, and design thinking** approach
-- **Continuously improve** my technical and leadership skills  
-- Work with a **serious, collaborative team** that values autonomy and adaptability
-- **Make real impact** on systems that matter
+I'm seeking a <strong>challenging project with a modern tech stack</strong> where I can:
+- Express my <strong>proactive, analytical, and design thinking</strong> approach
+- <strong>Continuously improve</strong> my technical and leadership skills
+- Work with a <strong>serious, collaborative team</strong> that values autonomy and adaptability
+- <strong>Make real impact</strong> on systems that matter
 
 Let's build something amazing together! 🚀
 
