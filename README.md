@@ -61,8 +61,8 @@ I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong>
 
 <div style="background: linear-gradient(135deg, #1d4ed8 0%, #0f766e 100%); padding: 20px; border-radius: 10px; color: white;">
   <h3 style="margin-top: 0;">💻 Backend</h3>
-  <p><strong>Languages:</strong> Ruby, Scala, Java, Node.js</p>
-  <p><strong>Frameworks:</strong> Rails, Play, Spring, Express</p>
+  <p><strong>Languages:</strong> Ruby, Node.js, Scala, Java</p>
+  <p><strong>Frameworks:</strong> Rails, Express, Play, Spring</p>
   <p><strong>APIs:</strong> REST, OpenAPI, WSO2</p>
 </div>
 
@@ -75,8 +75,8 @@ I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong>
 
 <div style="background: linear-gradient(135deg, #7c3aed 0%, #16a34a 100%); padding: 20px; border-radius: 10px; color: white;">
   <h3 style="margin-top: 0;">☁️ Infrastructure</h3>
-  <p><strong>Cloud:</strong> Azure, Heroku, Docker</strong>
-  <p><strong>Containerization & Orchestration:</strong> Kubernetes, Argo CD</p>
+  <p><strong>Cloud:</strong> Azure, Heroku</strong>
+  <p><strong>Containerization & Orchestration:</strong>Docker, Kubernetes, Argo CD</p>
   <p><strong>CI/CD:</strong> Jenkins, Azure DevOps, GitHub Actions</p>
 </div>
 
