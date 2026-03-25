@@ -38,7 +38,7 @@ I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong>
       <ul>
         <li>📋 Wrote <strong>functional specs</strong> and created <strong>prototypes in Figma</strong> to validate UX before development</li>
         <li>🗄️ <strong>Designed DB schema</strong> and implemented <strong>order workflow constraints</strong> to eliminate invalid orders and reduce errors</li>
-        <li>🎯 Automated workflows → <strong>reduction</strong> of manual restaurant tasks</li>
+        <li>🎯 Automated workflows → <strong>60% reduction</strong> of manual restaurant tasks</li>
         <li>⚡ Built <strong>responsive SPA-like UX</strong> with Hotwire Turbo & Stimulus, improving page load times</li>
         <li>🚀 Deployed to <strong>Heroku</strong> with full DNS and hosting configuration management</li>
         <li>📚 Documented <strong>DB schema, functional specs, user stories & user flows</strong> in private GitHub repo</li>
@@ -57,37 +57,25 @@ I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong>
 
 <h2 style="color:#0f766e;">🛠️ Tech Stack Breakdown</h2>
 
-<div class="tech-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+<h3 style="color:#1d4ed8;">💻 Backend</h3>
+<p><strong>Languages:</strong> Ruby, Node.js, Scala, Java</p>
+<p><strong>Frameworks:</strong> Rails, Express, Play, Spring</p>
+<p><strong>APIs:</strong> REST, OpenAPI, WSO2</p>
 
-<div style="background: linear-gradient(135deg, #1d4ed8 0%, #0f766e 100%); padding: 20px; border-radius: 10px; color: white;">
-  <h3 style="margin-top: 0;">💻 Backend</h3>
-  <p><strong>Languages:</strong> Ruby, Node.js, Scala, Java</p>
-  <p><strong>Frameworks:</strong> Rails, Express, Play, Spring</p>
-  <p><strong>APIs:</strong> REST, OpenAPI, WSO2</p>
-</div>
+<h3 style="color:#16a34a;">🎨 Frontend</h3>
+<p><strong>Frameworks:</strong> Angular, Hotwire, Stimulus</p>
+<p><strong>Languages:</strong> TypeScript, HTML/CSS/JavaScript</p>
+<p><strong>State Mgmt:</strong> NgRx, RxJS</p>
 
-<div style="background: linear-gradient(135deg, #16a34a 0%, #1d4ed8 100%); padding: 20px; border-radius: 10px; color: white;">
-  <h3 style="margin-top: 0;">🎨 Frontend</h3>
-  <p><strong>Frameworks:</strong> Angular, Hotwire, Stimulus</p>
-  <p><strong>Languages:</strong> TypeScript, HTML/CSS/JavaScript</p>
-  <p><strong>State Mgmt:</strong> NgRx, RxJS</p>
-</div>
+<h3 style="color:#7c3aed;">☁️ Infrastructure</h3>
+<p><strong>Cloud:</strong> Azure, Heroku</p>
+<p><strong>Containerization & Orchestration:</strong> Docker, Kubernetes, Argo CD</p>
+<p><strong>CI/CD:</strong> Jenkins, Azure DevOps, GitHub Actions</p>
 
-<div style="background: linear-gradient(135deg, #7c3aed 0%, #16a34a 100%); padding: 20px; border-radius: 10px; color: white;">
-  <h3 style="margin-top: 0;">☁️ Infrastructure</h3>
-  <p><strong>Cloud:</strong> Azure, Heroku</strong>
-  <p><strong>Containerization & Orchestration:</strong>Docker, Kubernetes, Argo CD</p>
-  <p><strong>CI/CD:</strong> Jenkins, Azure DevOps, GitHub Actions</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #dc2626 0%, #7c3aed 100%); padding: 20px; border-radius: 10px; color: white;">
-  <h3 style="margin-top: 0;">🗄️ Data</h3>
-  <p><strong>Relational:</strong> PostgreSQL, SQL Server</p>
-  <p><strong>NoSQL:</strong> MongoDB, Cassandra, Couchbase</p>
-  <p><strong>Tools:</strong> Elasticsearch, Git, Postman</p>
-</div>
-
-</div>
+<h3 style="color:#dc2626;">🗄️ Data</h3>
+<p><strong>Relational:</strong> PostgreSQL, SQL Server</p>
+<p><strong>NoSQL:</strong> MongoDB, Cassandra, Couchbase</p>
+<p><strong>Tools:</strong> Elasticsearch, Git, Postman</p>
 
 ---
 
