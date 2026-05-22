@@ -44,7 +44,7 @@ I'm a <strong>Senior Full Stack Engineer</strong> with <strong>8+ years</strong>
         <li>📚 Documented <strong>DB schema, functional specs, user stories & user flows</strong> in private GitHub repo</li>
       </ul>
       <p><strong>Tech Stack:</strong><br/>
-        Ruby on Rails 7.2 • Hotwire Turbo • Stimulus • PostgreSQL • Devise • Mobility (i18n) • Money-rails • Redsys (payment) • WickedPDF • PrintNode • Figma
+        Ruby on Rails 7.2 • Hotwire Turbo • Stimulus • PostgreSQL • Devise • Pundit • Mobility (i18n) • Money-rails • Redsys (payment) • WickedPDF • PrintNode • Figma
       </p>
       <p>
         <a href="https://www.artepizzadanicola.es">🌐 Live Site</a> | <a href="https://github.com/ab-nightowl/arte-pizza">📚 GitHub (Private)</a>
